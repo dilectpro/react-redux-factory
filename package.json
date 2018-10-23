@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-factory",
+  "version": "1.0.1",
+  "description": "redux without reducers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-redux",
+    "redux"
+  ],
+  "author": "dilect.pro",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.1"
+  }
+}
